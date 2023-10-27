@@ -1,0 +1,20 @@
+.monitor{
+background-color:black;
+height:35px;
+width:280px;
+}
+
+.wideButton>button{
+  width:137px;
+}
+
+button{
+  width:66px;
+}
+
+#monitor{
+  margin: 0 6px;
+  text-align: right;
+  color:white;
+  font-size: 25px;
+}
